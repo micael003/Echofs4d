@@ -1,2 +1,2 @@
 # Echofs4d
-Trova canzoni simili alle tue più tristemente amate
+Trova canzoni simili a quelle che più tristemente ami
